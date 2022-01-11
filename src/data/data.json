@@ -1,0 +1,105 @@
+{
+    "Header": {
+        "title": "Smart Tech",
+        "paragraph": "Ampliando seu alcance."
+    },
+    "Sobre": {
+        "paragraph": "A SMARTTECH Solutions tem sua trajetória marcada pelo espírito empreendedor de seus diretores e pela dedicação de seus colaboradores, fatores fundamentais que permitiram à empresa conquistar confiança e respeito no seu segmento.",
+        "paragraph2": "Com a experiência e solidez alcançadas ao longo do tempo, nos sentimos preparados para oferecer um amplo portfólio de soluções. Nosso compromisso é buscar a resposta ideal, pautados por uma visão consultiva, focados nas necessidades de cada cliente.",
+        "Why": [
+            "Confiança e respeito no seu segmento.",
+            "Relatórios mensais no desempenho da empresa.",
+            "Excelência com o publico em geral.",
+            "Credibilidade, sendo de urgência e agilidade 😉"
+        ],
+        "Why2": [
+            "Suporte rápido",
+            "Criativida sempre em alta. ",
+            "Criamos um plano unico com a necessidade do cliente.",
+            "Grandes váriedades de sistemas"
+        ]
+    },
+    "Services": [
+        {
+            "icon": "fa fa-video-camera",
+            "name": "Manutenção em Cameras",
+            "text": "Fazemos a manutenção e instalação de cameras de segurança."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "E-commerce",
+            "text": "Um jeito novo de você fazer vendas, um sistema totalmente voltado para a sua empresa."
+        },
+        {
+            "icon": "fa fa-building",
+            "name": "Sistema de Gestão Empresarial",
+            "text": "Um sistema completo para você gerênciar tudo que acontece dentro e fora da sua empresa."
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "Nós da Odonto Excellence escolhemos a Evolution, por ter sido indicada, e verificar que se trata de uma empresa séria e dedicada naquilo que faz. Um excelente atendimento e com profissionais capacitados.",
+            "name": "Odonto Excellence"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/03.jpg",
+            "name": "Guilherme Marques",
+            "job": "CEO"
+        }
+    ],
+    "Contact": {
+        "address": "AV. 29 de Abril ",
+        "phone": "+55 (41) 99578-9285",
+        "email": "smarttechsolutions.gtba@gmail.com.br",
+        "cnpj": "41.796.591/0001-32",
+        "facebook": "https://www.facebook.com/SmartTechGuaratuba",
+        "instagram": "https://www.instagram.com/smarttechgtba/",
+        "whatsapp": "https://api.whatsapp.com/send?phone=5541995789285&text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20"
+    },
+    "Features": [
+        {
+            "icon": "fa fa-code-fork",
+            "title": "Marketing nas redes sociais",
+            "text": "O Marketing envolve a promoção de sua marca nos canais sociais, a fim de aumentar o reconhecimento da marca, direcionar o tráfego para seu site e gerar leads. Para isso, você pode criar posts em canais populares das redes sociais",
+            "link": "https://evoemissor.com.br/"
+        },
+        {
+            "icon": "fa fa-desktop",
+            "title": "SEO (otimização para motores de busca)",
+            "text": "SEO (Search Engine Optimization) ou otimização para mecanismos de busca. São as ações que contribuem para melhorar o potencial de rankeamento de suas páginas e conteúdos, ajudando você a cumprir os principais pré-requisitos exigidos pelas plataformas de pesquisa."
+        },
+        {
+            "icon": "fa fa-sitemap",
+            "title": "Publicidade nativa",
+            "text": "O objetivo da publicidade nativa é fazer com que os usuários cliquem no conteúdo que os levará à página da sua empresa. Se o conteúdo comercial anunciado for discreto e altamente relevante para o material em questão, os usuários podem ter mais interesse ​​em clicar."
+        },
+        {
+            "icon": "fa fa-reddit",
+            "title": "Tráfego Orgânico/Pago",
+            "text": "Trafego Orgânico/Pago é a maneira que o cliente chega até você, com o trafego pago você leva a sua empresa até ele, com o orgânico você faz o cliente chegar até você, através de uma publicação, um histories e assim por diante."
+        }
+    ]
+}
