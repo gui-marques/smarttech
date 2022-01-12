@@ -19,7 +19,7 @@ export const Navigation = (props) => {
           </button>
           <img className="logo" src="img/logo.png" alt="Smart Tech Solutions" />
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Smart Tech Solutions
+            SmartTech Solutions
 
           </a>{' '}
         </div>
