@@ -39,28 +39,13 @@
     "Testimonials": [
         {
             "img": "img/testimonials/01.jpg",
-            "text": "Nós da Odonto Excellence escolhemos a Evolution, por ter sido indicada, e verificar que se trata de uma empresa séria e dedicada naquilo que faz. Um excelente atendimento e com profissionais capacitados.",
-            "name": "Odonto Excellence"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "Nós da Farmácia Super Popular escolhemos a SmartTech, por ter sido indicada, e verificamos que se trata de uma empresa séria e dedicada naquilo que faz. Um excelente atendimento e com profissionais capacitados.",
+            "name": "Farmácia Super Popular",
+            "instacliente": "https://www.instagram.com/superpopulargtba/",
+            "facecliente": "https://www.facebook.com/farmaciaSuperPopulargtba/",
+            "whatscliente": "",
+            "iconFace": "fa fa-facebook-square",
+            "iconInsta": "fa fa-instagram"
         }
     ],
     "Team": [
@@ -81,23 +66,23 @@
     },
     "Features": [
         {
-            "icon": "fa fa-code-fork",
+            "icon": "fa fa-bullhorn",
             "title": "Marketing nas redes sociais",
             "text": "O Marketing envolve a promoção de sua marca nos canais sociais, a fim de aumentar o reconhecimento da marca, direcionar o tráfego para seu site e gerar leads. Para isso, você pode criar posts em canais populares das redes sociais",
             "link": "https://evoemissor.com.br/"
         },
         {
-            "icon": "fa fa-desktop",
+            "icon": "fa fa-search",
             "title": "SEO (otimização para motores de busca)",
             "text": "SEO (Search Engine Optimization) ou otimização para mecanismos de busca. São as ações que contribuem para melhorar o potencial de rankeamento de suas páginas e conteúdos, ajudando você a cumprir os principais pré-requisitos exigidos pelas plataformas de pesquisa."
         },
         {
-            "icon": "fa fa-sitemap",
+            "icon": "fa fa-book",
             "title": "Publicidade nativa",
             "text": "O objetivo da publicidade nativa é fazer com que os usuários cliquem no conteúdo que os levará à página da sua empresa. Se o conteúdo comercial anunciado for discreto e altamente relevante para o material em questão, os usuários podem ter mais interesse ​​em clicar."
         },
         {
-            "icon": "fa fa-reddit",
+            "icon": "fa fa-line-chart",
             "title": "Tráfego Orgânico/Pago",
             "text": "Trafego Orgânico/Pago é a maneira que o cliente chega até você, com o trafego pago você leva a sua empresa até ele, com o orgânico você faz o cliente chegar até você, através de uma publicação, um histories e assim por diante."
         }

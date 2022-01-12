@@ -10,6 +10,7 @@ body, html {
 h2, h3, h4 {
 	font-family: 'Raleway', sans-serif;
 }
+
 h2 {
 	text-transform: uppercase;
 	margin: 0 0 20px 0;
@@ -91,7 +92,7 @@ hr {
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
-	color: rgb(248, 246, 246);
+	color: #fff;
 	font-size: 15px;
 	font-weight: 400;
 	padding: 8px 2px;
@@ -194,6 +195,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro {
 	display: table;
 	width: 100%;	
+	
 	padding: 0;
 	background: url(../img/intro-bg.jpg) center center no-repeat;
 	background-color: #e5e5e5;
@@ -201,6 +203,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+	
 }
 .intro .overlay {
 	background: rgba(0,0,0,0.2);
@@ -212,8 +215,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-size: 82px;
 	font-weight: 700;
 	text-transform: uppercase;
-	margin-top: 0;
-	
+	margin-top: 0;	
 	margin-bottom: 40px;
 }
 .intro h1 span {
@@ -237,6 +239,7 @@ header .intro-text {
 	padding-bottom: 99px;
 	margin-left: -10px;
 	text-align: left;
+	
 }
 /* Features Section */
 #features {
@@ -258,6 +261,7 @@ header .intro-text {
 /* About Section */
 #about {
 	padding: 100px 0;
+	height: 100%;
 }
 #about h3 {
 	font-size: 22px;
@@ -307,6 +311,8 @@ header .intro-text {
 	padding: 100px 0;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	color: #fff;
+	height: 100%;
+	
 }
 #services .service-desc {
 	margin: 10px 10px 20px;
@@ -394,11 +400,15 @@ header .intro-text {
 #testimonials {
 	padding: 100px 0;
 	background: #f6f6f6;
+	height: 100%;
+	
 }
 #testimonials i {
-	color: #e6e6e6;
+	color: black;
 	font-size: 32px;
 	margin-bottom: 20px;
+	margin: 4px;
+	
 }
 .testimonial {
 	position: relative;
@@ -432,6 +442,7 @@ header .intro-text {
 /* Team Section */
 #team {
 	padding: 100px 0;
+	height: 100%;
 }
 #team h4 {
 	margin: 5px 0;
